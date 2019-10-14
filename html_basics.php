@@ -19,8 +19,28 @@
 <h4>H4 <strong>bold</strong></h4>
 <h6><em>em</em> H6</h6>
 
-<h6>Image and Link</h6>
+<h4>Image and Link</h4>
 <img src="https://www.instagram.com/p/B3mvOJrHPef/?utm_source=ig_web_copy_link">
 <p>Follow me on <a href="https://www.instagram.com/veg_eatably/">Instagram</a></p>
+
+<h4>Table</h4>
+<table>
+	<thead>
+		<tr>
+			<th>Vegetable</th>
+			<th>Colour</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Banana</td>
+			<td>Yellow</td>
+		</tr>
+		<tr>
+			<td>Egg Plant</td>
+			<td>Purple</td>
+		</tr>
+	</tbody>
+</table>
 </body>
 </html>
