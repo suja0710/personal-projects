@@ -19,5 +19,8 @@
 <h4>H4 <strong>bold</strong></h4>
 <h6><em>em</em> H6</h6>
 
+<h6>Image and Link</h6>
+<img src="https://www.instagram.com/p/B3mvOJrHPef/?utm_source=ig_web_copy_link">
+<p>Follow me on <a href="https://www.instagram.com/veg_eatably/">Instagram</a></p>
 </body>
 </html>
