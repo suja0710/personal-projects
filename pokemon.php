@@ -10,8 +10,8 @@
 	<table>
 		<thead>
 			<tr>
-				<th>Image</th>
 				<th>Name</th>
+				<th>Image</th>
 				<th>Type</th>
 				<th>Ivolves Into</th>
 			</tr>
